@@ -1,0 +1,10 @@
+C:\Users\Colten\source\repos\wordle\wordle\obj\Debug\wordle.csprojAssemblyReference.cache
+C:\Users\Colten\source\repos\wordle\wordle\obj\Debug\wordle.Form1.resources
+C:\Users\Colten\source\repos\wordle\wordle\obj\Debug\wordle.Properties.Resources.resources
+C:\Users\Colten\source\repos\wordle\wordle\obj\Debug\wordle.csproj.GenerateResource.cache
+C:\Users\Colten\source\repos\wordle\wordle\obj\Debug\wordle.csproj.CoreCompileInputs.cache
+C:\Users\Colten\source\repos\wordle\wordle\bin\Debug\wordle.exe.config
+C:\Users\Colten\source\repos\wordle\wordle\bin\Debug\wordle.exe
+C:\Users\Colten\source\repos\wordle\wordle\bin\Debug\wordle.pdb
+C:\Users\Colten\source\repos\wordle\wordle\obj\Debug\wordle.exe
+C:\Users\Colten\source\repos\wordle\wordle\obj\Debug\wordle.pdb
